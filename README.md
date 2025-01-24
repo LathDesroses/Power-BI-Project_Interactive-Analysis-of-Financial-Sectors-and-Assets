@@ -92,7 +92,8 @@ Processed data was saved in an Excel file with two sheets:
 1. Clone the repository.
 2. Install dependencies using:
    ```bash
-   pip install -r requirements.txt
+   pip install selenium webdriver-manager pandas yfinance matplotlib seaborn plotly
+
    ```
 3. Run the scraping script to collect data:
    ```bash
