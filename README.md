@@ -1,11 +1,12 @@
 # Interactive Analysis of Financial Sectors and Assets
 
 ## Author
-- ESSOH Lath 
+- ESSOH Lath
+
 M2 DS2E, 2024-2025  
 
 ## Overview
-This project, titled **"Interactive Analysis of Financial Sectors and Assets: Exploring with Power BI"**, is a comprehensive study of financial sectors and assets. It leverages data analysis and visualization to provide actionable insights into sector trends, asset performance, and inter-sector relationships.
+This project, titled **"Interactive Analysis of Financial Sectors and Assets: Exploring with Power BI"**, is a comprehensive study of financial sectors and assets. It leverages data analysis and visualization to provide actionable insights into sector trends, asset performance, and inter-sector relationships
 
 The project focuses on three main perspectives:
 1. **Global Sector Overview**
