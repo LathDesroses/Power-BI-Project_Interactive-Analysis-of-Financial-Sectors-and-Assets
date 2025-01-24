@@ -96,11 +96,11 @@ Processed data was saved in an Excel file with two sheets:
    ```
 3. Run the scraping script to collect data:
    ```bash
-   python scrape_data.py
+   python ESSOH_Notebook_PBI.ipynb
    ```
 4. Process the data and calculate indicators:
    ```bash
-   python process_data.py
+   python ESSOH_Notebook_PBI.ipynb
    ```
 5. Open the Power BI `.pbix` file to view dashboards.
 
